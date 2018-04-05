@@ -5,6 +5,7 @@ export const KonnectorTrinlane = {
   version: '0.1.0',
   manifest: {
     name: 'Trinlane',
+    version: '0.1.0',
     slug: 'konnector-trinlane',
     icon: 'https://mockcozy.cc/registry/konnector-trinlane/0.1.0/icon.svg',
     short_description: 'A konnector for trinlane',
